@@ -8,5 +8,5 @@
 isabella-eng7/isabella-eng7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->Olá, me chamo Isabella e tenho 24 anos, estou estudando Analise e Desenvolvimento de Sistemas e também  html, Css e JS. 
-Pretendo desenvolver mais projetos enquanto estudo e estou buscando um estágio Front end.
-Entre em contato pelo email: isabella.viana97@outlook.com
+Pretendo desenvolver mais projetos enquanto estudo e estou buscando um estágio como desenvolvedora. 
+Para entrar em contato meu email: isabella.viana97@outlook.com
