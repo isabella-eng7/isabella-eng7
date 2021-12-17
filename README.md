@@ -8,8 +8,8 @@
 
 <div>
 	<a href="https://github.com/isabella-eng7">
-	<img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella Viana &theme=tokyonight&layout=compact"/> 
-	<img height="120cm" src="https://github-readme-stats.vercel.app/api?username=Isabella Viana &theme=tokyonight&hide=prs,issues"/>
+	<img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-eng7&theme=tokyonight&layout=compact"/> 
+	<img height="120cm" src="https://github-readme-stats.vercel.app/api?username=isabella-eng7&theme=tokyonight&hide=prs,issues"/>
 </div>
 <br>
 <a href="https://www.linkedin.com/in/isabella-viana-dev/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:isabella.viana97@outlook.com" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:isabella.viana97@outlook.com>"/></a> <a href="https://github.com/isabella-eng7" alt="github" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a>
