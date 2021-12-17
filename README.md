@@ -13,12 +13,3 @@
 </div>
 <br>
 <a href="https://www.linkedin.com/in/isabella-viana-dev/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:isabella.viana97@outlook.com" alt="gmail" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:isabella.viana97@outlook.com>"/></a> <a href="https://github.com/isabella-eng7" alt="github" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white"></a>
-
-
-
-<!---
-isabella-eng7/isabella-eng7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Olá, me chamo e tenho 24 anos, estou estudando Analise e Desenvolvimento de Sistemas e também  html, Css e JS. 
-
-Para entrar em contato meu email: isabella.viana97@outlook.com
